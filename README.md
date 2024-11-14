@@ -3,7 +3,7 @@
 
 
 
-<h2>A personal Portfolio to showcase my skills!
+<h2>A personal Portfolio!
 </h2>
 
  
