@@ -52,7 +52,7 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Transforming Concepts into Seamless User Experiences"
+            words="Transforming Ideas into interactive User Experiences"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
@@ -60,7 +60,7 @@ const Hero = () => {
             Hi! I&apos;m Hamza Shahzad, a Frontend Developer based in PAKISTAN.
           </p>
 
-          <a href="#about">
+          <a href="#projects">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}
